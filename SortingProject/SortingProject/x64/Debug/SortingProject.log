@@ -1,6 +1,0 @@
-﻿  main.cpp
-C:\Users\alion\source\repos\SortingProject\main.cpp(15,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-C:\Users\alion\source\repos\SortingProject\main.cpp(78,42): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
-  test_bubble.cpp
-  Создание кода...
-  SortingProject.vcxproj -> C:\Users\alion\source\repos\SortingProject\x64\Debug\SortingProject.exe
