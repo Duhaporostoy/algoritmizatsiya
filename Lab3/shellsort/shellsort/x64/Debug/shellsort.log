@@ -1,0 +1,8 @@
+﻿  shellsort.cpp
+C:\Users\alion\source\repos\shellsort\shellsort.cpp(8,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\alion\source\repos\shellsort\shellsort.cpp(38,19): warning C4244: инициализация: преобразование "_Rep" в "unsigned int", возможна потеря данных
+C:\Users\alion\source\repos\shellsort\shellsort.cpp(38,19): warning C4244:         with
+C:\Users\alion\source\repos\shellsort\shellsort.cpp(38,19): warning C4244:         [
+C:\Users\alion\source\repos\shellsort\shellsort.cpp(38,19): warning C4244:             _Rep=__int64
+C:\Users\alion\source\repos\shellsort\shellsort.cpp(38,19): warning C4244:         ]
+  shellsort.vcxproj -> C:\Users\alion\source\repos\shellsort\x64\Debug\shellsort.exe
